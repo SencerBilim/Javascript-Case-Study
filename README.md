@@ -1,5 +1,7 @@
 Koltuk Rezervasyon Sistemi - README
-Bu uygulama, bir koltuk rezervasyon sisteminin temel işlevselliğini simüle etmek üzere tasarlanmıştır. Kullanıcı dostu bir arayüzle birlikte aşağıdaki özellikler ve işlevler bulunmaktadır:
+Bu uygulama, bir koltuk rezervasyon sisteminin temel işlevselliğini simüle etmek üzere tasarlanmıştır. Website sunumu; https://sencerbilim-case-study.vercel.app/
+
+Kullanıcı dostu bir arayüzle birlikte aşağıdaki özellikler ve işlevler bulunmaktadır:
 
 1. İlk 10 Koltuk Dolu Durumda
 Uygulama başlangıcında, ilk 10 koltuk dolu olarak ayarlanmıştır ve kullanıcı tarafından seçilemez.
