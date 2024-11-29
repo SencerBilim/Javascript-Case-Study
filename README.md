@@ -48,10 +48,5 @@ HTML, CSS, JavaScript ile geliştirilmiştir.
 Veriler için JSON Placeholder API kullanılmıştır.
 Yerel depolama (localStorage) ile kullanıcı seçimleri saklanmaktadır.
 
-Nasıl Kullanılır?
-Koltuk seçimini yaparak yan tarafta ücreti kontrol edin.
-En fazla 3 koltuk seçebileceğinizi unutmayın.
-Form alanlarını eksiksiz doldurun.
-"İşlemleri Tamamla" butonuna basarak rezervasyonunuzu tamamlayın!
 
-Bu özelliklerle kullanıcıya pratik ve şeffaf bir rezervasyon deneyimi sunulmaktadır.
+
